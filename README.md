@@ -1,3 +1,15 @@
+<style>
+  table {
+    border-collapse: collapse !important;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  th, td {
+    border: 1px solid #224422 !important; /* Faint matrix-green lines to match the Hacker theme */
+    padding: 10px !important;
+  }
+</style>
+
 # unRAID Compute Server
 Taking a play from my enterprise world. This is a compute server only running Docker and VMs.
 
